@@ -1,3 +1,6 @@
+# Author: Bianca Gedorio
+# Project
+
 import random
 
 employee_id_list = [65324, 53218, 76438, 19367, 31434]
